@@ -132,7 +132,7 @@ img.socialIcon {
     display: flex;
     justify-content: center;
     gap: 2.5rem;
-    background: rgba(255,255,255,0.75);
+    background: rgba(250, 249, 249, 0.75);
     padding: 1rem;
     top: 0;
     width: 100%;
